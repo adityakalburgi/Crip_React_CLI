@@ -51,7 +51,7 @@ Crip React CLI is licensed under the **MIT License**.
 
 For any issues, feature requests, or support, feel free to reach out:
 
-- GitHub Issues: [Crip React CLI](https://github.com/your-repo/issues)
+- GitHub Issues: [Crip React CLI]([(https://github.com/adityakalburgi/Crip_React_CLI)])
 
 ## ⭐ Support
 
